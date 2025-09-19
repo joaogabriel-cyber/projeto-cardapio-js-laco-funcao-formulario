@@ -1,0 +1,48 @@
+[
+  {
+    "data": "2025-09-19T00:00:00-03:00",
+    "turno": "integral",
+    "refeicao": {
+      "titulo": "almoço",
+      "itens": ["arroz", "feijoada", "torresmo", "couve"],
+      "bebida": ["Suco de limão"],
+      "img": ["./img/almoço.png"]
+    },
+    "lanche": {
+      "titulo": "lanche",
+      "itens": ["biscoito cream cracker"],
+      "bebida": ["Suco de limão"],
+      "img": ["./img/cafe.png"]
+    }
+  },
+  {
+    "data": "2025-09-19T00:00:00-03:00",
+    "turno": "manhã",
+    "refeicao": {
+      "titulo": "almoço",
+      "itens": ["arroz", "feijoada", "torresmo", "couve"],
+      "bebida": ["Suco de limão"],
+      "img": ["./img/almoço.png"]
+    }
+  },
+  {
+    "data": "2025-09-19T00:00:00-03:00",
+    "turno": "tarde",
+    "refeicao": {
+      "titulo": "almoço",
+      "itens": ["arroz", "feijoada", "torresmo", "couve"],
+      "bebida": ["Suco de limão"],
+      "img": ["./img/almoço.png"]
+    }
+  },
+  {
+    "data": "2025-09-19T00:00:00-03:00",
+    "turno": "noturno",
+    "refeicao": {
+      "titulo": "janta",
+      "itens": ["arroz", "feijoada", "torresmo", "couve"],
+      "bebida": ["Suco de limão"],
+      "img": ["./img/almoço.png"]
+    }
+  }
+]
