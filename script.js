@@ -494,3 +494,4 @@ async function enviarDadosParaAPI(dados) {
     }
 }
 
+function mostrarPesquisa(){}
